@@ -10,13 +10,6 @@ body{
 
 <body>
 
-<center>
-<table border="1">
-<tr>
-<td><img src="aom.jpg" width="300" height="300" > </td>
-</tr>
-</table>
-</center>
 
 
 <font color="#FF3399"><p><br><b><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซร์นางสาวพิชญานิน  สอนสงวน </marquee></b></i></font>
