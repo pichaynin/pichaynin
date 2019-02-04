@@ -19,7 +19,7 @@ body{
 </center>
 
 
-<font color="#FF3399"><p><br><b><h2><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซร์นางสาวพิชญานิน  สอนสงวน </marquee></b></h2></i></font>
+<font color="#FF3399"><p><br><b><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซร์นางสาวพิชญานิน  สอนสงวน </marquee></b></i></font>
 
 
 <ul><p><br><b>ชื่อ พิชญานิน  สอนสงวน  ชื่อเล่นออม </b>
