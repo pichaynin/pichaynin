@@ -3,7 +3,7 @@
 <title>พิชญานิน  สอนสงวน</title>
 <style>
 body{
-     background-color:#CCFFFF;
+   
 }
 </style>
 </head>
@@ -20,16 +20,6 @@ body{
 
 
 <font color="#FF3399"><p><br><b><h2><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซร์นางสาวพิชญานิน  สอนสงวน </marquee></b></h2></i></font>
-<br>
-<center>
-<table border="1">
-    <tr>
-       <td> <img src="h.jpg" width="400" height="300"> </td>
-       <td> <img src="h1.jpg" width="400" height="300"> </td>
-   </tr>
-</table>
-</center>
-</br>
 
 
 <ul><p><br><b>ชื่อ พิชญานิน  สอนสงวน  ชื่อเล่นออม </b>
