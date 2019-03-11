@@ -81,7 +81,7 @@ body{
 </table>
 </center>
 
-<font color="#006600"><p><br><b><h1><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซร์ ชมรมเรารักชนบท             </marquee></b></h2></i></font>
+<font color="#006600"><p><br><b><h1><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซต์ ชมรมเรารักชนบท             </marquee></b></h2></i></font>
 <br>
 <center>
 <table border="1">
