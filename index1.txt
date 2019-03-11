@@ -1,0 +1,178 @@
+﻿<html>
+<head>
+
+
+<link rel="stylesheet"
+href="https://fonts.googleapis.com/css?family=Prompt|Srisakdi" rel="stylesheet">
+
+<style>
+body {background-color:#CCFFFF;
+
+font-family: 'Prompt', sans-serif ;
+font-size: 24px;
+
+}
+h1 {
+	font-family: 'Srisakdi', cursive;
+	font-size: 48px;
+}
+h2 {
+
+font-family: 'Prompt', sans-serif ;
+font-size: 38px;
+
+}
+h3 {
+
+font-family: 'Prompt', sans-serif ;
+font-size: 26px;
+
+}
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>พิชญานิน  สอนสงวน</title>
+
+
+<style>
+
+body{
+     background-color:#CCFFFF;
+}
+</style>
+</head>
+
+<body>
+
+<center>
+<table border="1">
+<tr>
+<td>
+<img src="c1.jpg" width="1200" height="350" > </td>
+</tr>
+</table>
+</center>
+<br>
+<center>
+<table  border="1" bgcolor=”#FFFFCC”>
+<tr>
+<td>
+
+<br>  <a href="file:///D:/พืชญานิน/index1.htm"> หน้าหลัก </a>
+
+</td>
+<td>
+<br><a href="https://www.aru.ac.th/home.php"> มหาลัยราชภัฎพระนครศรีอยุธยา </a>
+</td>
+
+</td>
+<td>
+<br><a href="http://edu.aru.ac.th/edu2015/index.php/en/"> คณะครุศาสตร์ </a>
+</td>
+<td>
+<br><bb><a href="http://edu.aru.ac.th/comedu/index.php"> สาขาความพิวเตอร์ศึกษา </a>
+</td>
+</td>
+<td>
+<br><bb><a href="https://www.facebook.com/groups/1747166182250522/"> ชมรมเรารักชนบท </a>
+</td>
+</tr>
+</table>
+</center>
+
+<font color="#006600"><p><br><b><h1><i><marquee direction="left">ยินดีต้อนรับ  เข้าสู้เว็บไซร์ ชมรมเรารักชนบท             </marquee></b></h2></i></font>
+<br>
+<center>
+<table border="1">
+    <tr>
+       <td> <img src="c2.jpg" width="500" height="400"> </td>
+       <td> <img src="c3.jpg" width="500" height="400"> </td>
+   </tr>
+</table>
+</center>
+</br>
+
+
+<font color="#006600"><ul><h1><p><br><b>  ชมรมเรารักชนบท </b></h1></font>
+
+<p><b>ประวัติการเกิดค่าย</b>
+<br> เดิมโครงการนี้จัดขึ้นโดยนักศึกษาสาขาคอมพิวเตอร์ศึกษา  ปี  "2542"  ใช้ชื่อ  “ชมเรารักชนบท” มีจุดประสงค์เพื่อไปพัฒนาโรงเรียนในชนบท
+<br> โรงเรียนที่ห่างไกลจากความเจริญโดยการนำสิ่งของหรือไปช่วยทำความสะอาดสร้างสิ่งที่ขาดให้มีมากยิ่งขึ้นกว่าเก่า
+
+
+
+<p><b>ผู้สร้างค่าย</b>
+<br>นักศึกษาปี 2542
+
+
+
+
+<p><b>ประวัติการออกค่ายชมรมเรารักชน</b>
+<ul>
+<li><a href="#KFC">ปี 2558   โรงเรียนท่ามะปราง จังหวัดนครนายก</a></li>
+<li><a href="#k1">ปี 2559   โรงเรียนบ้านเขาเพิ่ม จังหวัดนครนายก</a></li>
+<li><a href="#Pi">ปี 2560   โรงเรียนชุมชนบ้านคลองเหมือง  </a></li>
+
+<hr>
+<br>
+
+<br>
+<center>
+<table border="1">
+<tr>
+<h2><font color="#FF3399"><a name="KFC">โรงเรียนท่ามะปราง  จังหวัดนครนายก </a></font></h2>
+<td><img src="KFC.jpg" width="450" height="350" > </td>
+<td><img src="c4.jpg" width="450" height="350" > </td>
+</tr>
+</table>
+
+<center>
+<table border="1">
+<tr>
+<td><img src="c5.jpg" width="450" height="350" > </td>
+<td><img src="c6.jpg" width="450" height="350" > </td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+<p><a href="file:///D:/พืชญานิน/index1.htm">Back to home</a></p>
+</center>
+
+<hr>
+<br>
+<center>
+<table border="1">
+<tr>
+<h2><font color="#FF3399"><a name="k1">โรงเรียนบ้านเขาเพิ่ม  จังหวัดนครนายก </a></font></h2>
+<td><img src="k1.jpg" width="450" height="350" > </td>
+<td><img src="k2.jpg" width="450" height="350" > </td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+<p><a href="file:///D:/พืชญานิน/index1.htm">Back to home</a></p>
+</center>
+</br>
+<hr>
+
+<center>
+<table border="1">
+<tr>
+<h2><font color="#FF3399"><a name="Pi">โรงเรียนบ้านคลองเหมือง  จังหวัดนครนายก</a></font></h2>
+<td><img src="m1.jpg" width="450" height="350" > </td>
+<td><img src="m2.jpg" width="450" height="350" > </td>
+</tr>
+</table>
+<p><a href="#top">Back to top</a></p>
+<p><a href="file:///D:/พืชญานิน/index1.htm">Back to home</a></p>
+</center>
+
+
+
+   </body>
+
+
+
+
+</body>
+
+</html>
